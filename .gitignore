@@ -1,0 +1,21 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+.env
+
+# Large data (download these separately)
+backend/data/train/
+backend/data/test/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
