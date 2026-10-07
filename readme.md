@@ -8,6 +8,10 @@ The React front end captures webcam frames and sends them to a **FastAPI** backe
 
 
 
+https://github.com/user-attachments/assets/72535ea1-b2f2-48c0-aa08-c3388ca49ef2
+
+
+
 
 ## Features
 
